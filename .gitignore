@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+myenv/
+.env
+email_address.json
+dist/
+build/
+*.exe
